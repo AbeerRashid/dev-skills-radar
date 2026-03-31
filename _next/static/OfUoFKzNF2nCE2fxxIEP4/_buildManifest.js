@@ -1,19 +1,24 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/1305wiulz5q8i.js"
+    "static/chunks/02k-_8am9lhp7.js"
   ],
   "/_error": [
-    "static/chunks/0k45nvkj2fgs6.js"
+    "static/chunks/14vc92olhvmrj.js"
   ],
   "/about": [
-    "static/chunks/0ga9d_vhrm230.js"
+    "static/chunks/0xof4972_anbx.js"
   ],
   "/skills": [
-    "static/chunks/0-h7451tzm6tc.js"
+    "static/chunks/0lbuap17iygc8.js"
   ],
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/dev-skills-radar//_next/:path+",
+        "destination": "/dev-skills-radar/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
